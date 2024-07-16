@@ -8,36 +8,299 @@ I am always on the lookout for new technologies and trends to enhance my skills 
 
 ## 🚀 Coding Skills
 
-<div>
-    <div>
-        <img src="assets/logos/html.png"/>
-        <span>Html</span>
-    </div>
-</div>
+<table style="border:none;">
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/html.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Html
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/css.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Css
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/sass.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Sass
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/javascript.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Javascript
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/php.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        php
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/react.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        React
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/react.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Vue.js
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/tailwind.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Tailwind
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/bootstrap.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Bootstrap
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/wordpress.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Wordpress
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/git.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Git
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/node.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Node
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/tailwind.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Npm
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+    </tr>
+</table>
 
-## 🚀 Design Skills
+## 🎨 Design Skills
 
-<div>
-    <div>
-        <img src="assets/logos/html.png"/>
-        <span>Html</span>
-    </div>
-</div>
+<table style="border:none;">
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/figma.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Figma
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/photoshop.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Photoshop
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/illustrator.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Illustrator
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/indesign.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Indesign
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
 
-## 🚀 Tools
+## 🧰 Tools
 
-<div>
-    <div>
-        <img src="assets/logos/html.png"/>
-        <span>Html</span>
-    </div>
-</div>
+<table style="border:none;">
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/jira.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Jira
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/trello.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Trello
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
 
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: React, Vue.js
-- **Development Tools**: Git, npm/yarn
-- **UI/UX**: Figma and Adobe (Illustrator, Photoshop, InDesign
-- **Others**: Responsive Design
 
 ## 🌟 Projects
 Here are some projects I have worked on recently:
