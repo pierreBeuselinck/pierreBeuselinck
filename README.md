@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, I'm Pierre 👨🏻‍🚀
 
-<!--
-**pierreBeuselinck/pierreBeuselinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=pierre-dev)
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+Front-end developer with extensive experience in creating interactive websites and applications. 
+I am always on the lookout for new technologies and trends to enhance my skills and create exceptional user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Skills
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks & Libraries**: React, Vue.js
+- **Development Tools**: Git, npm/yarn
+- **UI/UX**: Figma and Adobe (Illustrator, Photoshop, InDesign
+- **Others**: Responsive Design
+
+## 🌟 Projects
+Here are some projects I have worked on recently:
+
+## 📫 Contact Me
+- **LinkedIn**: [www.linkedin.com/in/beuselinck-pierre](www.linkedin.com/in/beuselinck-pierre)
+
+## 📈 GitHub Stats
+![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierre-dev&show_icons=true&theme=radical)
+
+## 🌐 My Website
+👷🏻 Work in progress
+
+Thank you for visiting my profile! Feel free to explore my projects and contact me if you have any questions or collaboration opportunities.
