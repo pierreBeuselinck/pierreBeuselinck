@@ -1,6 +1,6 @@
 # Hello, I'm Pierre 👨🏻‍🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=pierre-dev)
+![Profile Views](https://komarev.com/ghpvc/?username=pierreBeuselinck)
 
 ## 🧑‍💻 About Me
 Front-end developer with extensive experience in creating interactive websites and applications. 
