@@ -318,7 +318,11 @@ Here are some projects I have worked on recently:
 <br/>
 
 ## 📈 GitHub Stats
-![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierre-dev&show_icons=true&theme=radical)
+
+<br/>
+<a align="center" href="https://github.com/pierreBeuselinck/github-readme-stats"><img alt="Pierre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pierreBeuselinck&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+<a align="center" href="https://github.com/pierreBeuselinck/github-readme-stats"><img alt="Pierre's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierreBeuselinck&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+<br/>
 
 <br/>
 
