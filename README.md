@@ -334,3 +334,14 @@ Here are some projects I have worked on recently:
 👷🏻 Work in progress
 
 Thank you for visiting my profile! Feel free to explore my projects and contact me if you have any questions or collaboration opportunities.
+
+<br/>
+
+---
+
+<br/>
+
+<p align="center">
+    <img src="assets/img/cat.webp" width="200" />    
+</p>
+
