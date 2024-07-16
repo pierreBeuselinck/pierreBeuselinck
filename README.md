@@ -100,7 +100,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/react.png" width="48" height="48"/>
+                        <img src="assets/logos/vue.png" width="48" height="48"/>
                     </td>
                 </tr>
                 <tr>
@@ -186,7 +186,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/tailwind.png" width="48" height="48"/>
+                        <img src="assets/logos/npm.png" width="48" height="48"/>
                     </td>
                 </tr>
                 <tr>
@@ -196,9 +196,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
                 </tr>
             </table>
         </td>
-        <td>
-        </td>
-        <td>
+        <td colspan="2">
         </td>
     </tr>
 </table>
