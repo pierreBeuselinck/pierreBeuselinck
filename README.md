@@ -6,6 +6,8 @@
 Front-end developer with extensive experience in creating interactive websites and applications. 
 I am always on the lookout for new technologies and trends to enhance my skills and create exceptional user experiences.
 
+<br/>
+
 ## 🚀 Coding Skills
 
 <table style="border:none;">
@@ -201,6 +203,8 @@ I am always on the lookout for new technologies and trends to enhance my skills 
     </tr>
 </table>
 
+<br/>
+
 ## 🎨 Design Skills
 
 <table style="border:none;">
@@ -264,6 +268,8 @@ I am always on the lookout for new technologies and trends to enhance my skills 
     </tr>
 </table>
 
+<br/>
+
 ## 🧰 Tools
 
 <table style="border:none;">
@@ -299,15 +305,22 @@ I am always on the lookout for new technologies and trends to enhance my skills 
     </tr>
 </table>
 
+<br/>
 
 ## 🌟 Projects
 Here are some projects I have worked on recently:
 
+<br/>
+
 ## 📫 Contact Me
 - **LinkedIn**: [www.linkedin.com/in/beuselinck-pierre](www.linkedin.com/in/beuselinck-pierre)
 
+<br/>
+
 ## 📈 GitHub Stats
 ![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierre-dev&show_icons=true&theme=radical)
+
+<br/>
 
 ## 🌐 My Website
 👷🏻 Work in progress
