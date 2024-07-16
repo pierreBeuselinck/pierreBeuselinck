@@ -313,7 +313,7 @@ Here are some projects I have worked on recently:
 <br/>
 
 ## 📫 Contact Me
-- **LinkedIn**: [www.linkedin.com/in/beuselinck-pierre](www.linkedin.com/in/beuselinck-pierre)
+- **LinkedIn**: [www.linkedin.com/in/beuselinck-pierre](https://www.linkedin.com/in/beuselinck-pierre)
 
 <br/>
 
