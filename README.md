@@ -6,7 +6,33 @@
 Front-end developer with extensive experience in creating interactive websites and applications. 
 I am always on the lookout for new technologies and trends to enhance my skills and create exceptional user experiences.
 
-## 🚀 Technical Skills
+## 🚀 Coding Skills
+
+<div>
+    <div>
+        <img src="assets/logos/html.png"/>
+        <span>Html</span>
+    </div>
+</div>
+
+## 🚀 Design Skills
+
+<div>
+    <div>
+        <img src="assets/logos/html.png"/>
+        <span>Html</span>
+    </div>
+</div>
+
+## 🚀 Tools
+
+<div>
+    <div>
+        <img src="assets/logos/html.png"/>
+        <span>Html</span>
+    </div>
+</div>
+
 - **Languages**: HTML, CSS, JavaScript
 - **Frameworks & Libraries**: React, Vue.js
 - **Development Tools**: Git, npm/yarn
