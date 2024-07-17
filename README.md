@@ -201,6 +201,24 @@ I am always on the lookout for new technologies and trends to enhance my skills 
         <td colspan="2">
         </td>
     </tr>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/git.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Emailing
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td colspan="4">
+        </td>
+    </tr>
 </table>
 
 <br/>
