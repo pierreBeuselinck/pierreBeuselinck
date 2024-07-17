@@ -206,7 +206,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/git.png" width="48" height="48"/>
+                        <img src="assets/logos/mail.png" width="48" height="48"/>
                     </td>
                 </tr>
                 <tr>
