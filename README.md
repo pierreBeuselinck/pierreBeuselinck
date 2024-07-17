@@ -6,6 +6,11 @@
 Front-end developer with extensive experience in creating interactive websites and applications. 
 I am always on the lookout for new technologies and trends to enhance my skills and create exceptional user experiences.
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/beuselinck-pierre"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+</p>
+
 <br/>
 
 ## 🚀 Coding Skills
@@ -327,12 +332,6 @@ I am always on the lookout for new technologies and trends to enhance my skills 
 
 ## 🌟 Projects
 Here are some projects I have worked on recently:
-
-<br/>
-
-## 📫 Contact Me
-
-**LinkedIn**: [www.linkedin.com/in/beuselinck-pierre](https://www.linkedin.com/in/beuselinck-pierre)
 
 <br/>
 
