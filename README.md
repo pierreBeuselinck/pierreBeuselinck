@@ -1,6 +1,6 @@
 # Hello, I'm Pierre 👨🏻‍🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=pierre-dev)
+![Profile Views](https://komarev.com/ghpvc/?username=pierreBeuselinck)
 
 ## 🧑‍💻 About Me
 Front-end developer with extensive experience in creating interactive websites and applications. 
@@ -201,6 +201,24 @@ I am always on the lookout for new technologies and trends to enhance my skills 
         <td colspan="2">
         </td>
     </tr>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/git.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Emailing
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td colspan="4">
+        </td>
+    </tr>
 </table>
 
 <br/>
@@ -313,7 +331,8 @@ Here are some projects I have worked on recently:
 <br/>
 
 ## 📫 Contact Me
-- **LinkedIn**: [www.linkedin.com/in/beuselinck-pierre](www.linkedin.com/in/beuselinck-pierre)
+
+**LinkedIn**: [www.linkedin.com/in/beuselinck-pierre](https://www.linkedin.com/in/beuselinck-pierre)
 
 <br/>
 
@@ -334,3 +353,14 @@ Here are some projects I have worked on recently:
 👷🏻 Work in progress
 
 Thank you for visiting my profile! Feel free to explore my projects and contact me if you have any questions or collaboration opportunities.
+
+<br/>
+
+---
+
+<br/>
+
+<p align="center">
+    <img src="assets/img/cat.webp" width="200" />    
+</p>
+
