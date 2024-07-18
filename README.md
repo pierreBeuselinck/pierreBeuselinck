@@ -1,19 +1,21 @@
-# Hello, I'm Pierre 👨🏻‍🚀
+<h2>👨🏻‍🚀 Hello, I'm Pierre</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pierreBeuselinck)
-
-## 🧑‍💻 About Me
+<br/><br/>
+<h2>🧑‍💻 About Me</h2>
 Front-end developer with extensive experience in creating interactive websites and applications. 
 I am always on the lookout for new technologies and trends to enhance my skills and create exceptional user experiences.
-
-<!-- Social icons section -->
+<br/>
+<br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/beuselinck-pierre"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/beuselinck-pierre"><img width="48" height="48" alt="LinkedIn" title="LinkedIn" src="assets/logos/linkedin.png"/></a>
 </p>
 
 <br/>
 
-## 🚀 Coding Skills
+<h2>🚀 Coding Skills</h2>
+
+<h3>👾 Programming and Markup Languages</h3>
 
 <table style="border:none;">
     <tr>
@@ -21,26 +23,12 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/html.png" width="48" height="48"/>
+                          <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Ahtml"><img src="assets/logos/html.png" width="48" height="48"/><a>
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        Html
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td align="center" width="100">
-                        <img src="assets/logos/css.png" width="48" height="48"/>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" width="100">
-                        Css
+                         <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Ahtml">Html<a>
                     </td>
                 </tr>
             </table>
@@ -49,26 +37,12 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/sass.png" width="48" height="48"/>
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Acss"><img src="assets/logos/css.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        Sass
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td align="center" width="100">
-                        <img src="assets/logos/javascript.png" width="48" height="48"/>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" width="100">
-                        Javascript
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Acss">Css</a>
                     </td>
                 </tr>
             </table>
@@ -77,42 +51,89 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/php.png" width="48" height="48"/>
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Asass"><img src="assets/logos/sass.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        php
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Asass">Sass</a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Ajavascript"><img src="assets/logos/javascript.png" width="48" height="48"/></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Ajavascript">Javascript</a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Aphp"><img src="assets/logos/php.png" width="48" height="48"/></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Aphp">php</a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="#"><img src="assets/logos/node.png" width="48" height="48"/></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="#">Node</a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Amarkdown"><img src="assets/logos/node.png" width="48" height="48"/></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Amarkdown">Markdown</a>
                     </td>
                 </tr>
             </table>
         </td>
     </tr>
+  </table>
+
+  <h3>🧰 Frameworks and Libraries</h3>
+                           
+  <table style="border:none;">                         
     <tr>
         <td>
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/react.png" width="48" height="48"/>
+                        <a href="#"><img src="assets/logos/react.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        React
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td align="center" width="100">
-                        <img src="assets/logos/vue.png" width="48" height="48"/>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" width="100">
-                        Vue.js
+                        <a href="#">React</a>
                     </td>
                 </tr>
             </table>
@@ -121,26 +142,12 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/tailwind.png" width="48" height="48"/>
+                       <a href="#"><img src="assets/logos/vue.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        Tailwind
-                    </td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td align="center" width="100">
-                        <img src="assets/logos/bootstrap.png" width="48" height="48"/>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" width="100">
-                        Bootstrap
+                        <a href="#">Vue.js</a>
                     </td>
                 </tr>
             </table>
@@ -149,28 +156,61 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/wordpress.png" width="48" height="48"/>
+                        <a href="#"><img src="assets/logos/tailwind.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        Wordpress
+                        <a href="#">Tailwind</a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="#"><img src="assets/logos/bootstrap.png" width="48" height="48"/></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="#">Bootstrap</a>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="#"><img src="assets/logos/wordpress.png" width="48" height="48"/></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="#">Wordpress</a>
                     </td>
                 </tr>
             </table>
         </td>
     </tr>
+  </table>
+
+  <h3>💻 Software and Tools</h3>
+  
+  <table style="border:none;">
     <tr>
         <td>
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/git.png" width="48" height="48"/>
+                        <a href="#"><img src="assets/logos/git.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        Git
+                        <a href="#">Git</a>
                     </td>
                 </tr>
             </table>
@@ -179,12 +219,12 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/node.png" width="48" height="48"/>
+                        <a href="#"><img src="assets/logos/npm.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        Node
+                        <a href="#">Npm</a>
                     </td>
                 </tr>
             </table>
@@ -193,42 +233,57 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/npm.png" width="48" height="48"/>
+                        <a href="#"><img src="assets/logos/npm.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        Npm
+                        <a href="#">GitHub Desktop</a>
                     </td>
                 </tr>
             </table>
         </td>
-        <td colspan="2">
+              <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="#"><img src="assets/logos/npm.png" width="48" height="48"/></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        <a href="#">Visual Studio Code</a>
+                    </td>
+                </tr>
+            </table>
         </td>
     </tr>
+  </table>
+
+  <h3>👻 Others</h3>
+    
+  <table style="border:none;">
     <tr>
         <td>
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/mail.png" width="48" height="48"/>
+                        <a href="#"><img src="assets/logos/mail.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        Emailing
+                        <a href="#">Emailing</a>
                     </td>
                 </tr>
             </table>
-        </td>
-        <td colspan="4">
         </td>
     </tr>
 </table>
 
 <br/>
 
-## 🎨 Design Skills
+<h2>🎨 Design Skills</h2>
 
 <table style="border:none;">
     <tr>
@@ -293,7 +348,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
 
 <br/>
 
-## 🧰 Tools
+<h2>🧰 Tools</h2>
 
 <table style="border:none;">
     <tr>
@@ -325,17 +380,40 @@ I am always on the lookout for new technologies and trends to enhance my skills 
                 </tr>
             </table>
         </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/trello.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Discord
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td align="center" width="100">
+                        <img src="assets/logos/trello.png" width="48" height="48"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" width="100">
+                        Notion
+                    </td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 
 <br/>
 
-## 🌟 Projects
-Here are some projects I have worked on recently:
-
-<br/>
-
-## 📈 GitHub Stats
+<h2>📈 GitHub Stats</h2>
 
 <br/>
 <a align="center" href="https://github.com/pierreBeuselinck/github-readme-stats"><img alt="Pierre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pierreBeuselinck&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
@@ -348,7 +426,8 @@ Here are some projects I have worked on recently:
 
 <br/>
 
-## 🌐 My Website
+<h2>🌐 My Website</h2>
+
 👷🏻 Work in progress
 
 Thank you for visiting my profile! Feel free to explore my projects and contact me if you have any questions or collaboration opportunities.
