@@ -212,7 +212,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
                 </tr>
                 <tr>
                     <td align="center" width="100" >
-                          &nbsp;&nbsp;Git&nbsp;&nbsp;
+                          &nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;
                     </td>
                 </tr>
             </table>
@@ -298,7 +298,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
                 </tr>
                 <tr>
                     <td align="center" width="100" >
-                        Figma
+                        &nbsp;Figma&nbsp;
                     </td>
                 </tr>
             </table>
@@ -363,7 +363,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
                 </tr>
                 <tr>
                     <td align="center" width="100" >
-                        Jira
+                        &nbsp;&nbsp;Jira&nbsp;&nbsp;
                     </td>
                 </tr>
             </table>
