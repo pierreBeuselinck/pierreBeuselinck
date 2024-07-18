@@ -18,7 +18,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
 <h3>👾 Programming and Markup Languages</h3>
 
 <table style="border:none;">
-    <tr>
+      <tr>
         <td>
             <table>
                 <tr>
@@ -89,16 +89,18 @@ I am always on the lookout for new technologies and trends to enhance my skills 
                 </tr>
             </table>
         </td>
+    </tr>
+    <tr>
         <td>
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <a href="#"><img src="assets/logos/node.png" width="48" height="48"/></a>
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Ajavascript"><img src="assets/logos/node.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        <a href="#">Node</a>
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Ajavascript">Node</a>
                     </td>
                 </tr>
             </table>
@@ -107,7 +109,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Amarkdown"><img src="assets/logos/node.png" width="48" height="48"/></a>
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Amarkdown"><img src="assets/logos/markdown.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
@@ -233,7 +235,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <a href="#"><img src="assets/logos/npm.png" width="48" height="48"/></a>
+                        <a href="#"><img src="assets/logos/github.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
@@ -247,7 +249,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <a href="#"><img src="assets/logos/npm.png" width="48" height="48"/></a>
+                        <a href="#"><img src="assets/logos/vsc.png" width="48" height="48"/></a>
                     </td>
                 </tr>
                 <tr>
@@ -384,7 +386,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/trello.png" width="48" height="48"/>
+                        <img src="assets/logos/discord.png" width="48" height="48"/>
                     </td>
                 </tr>
                 <tr>
@@ -398,7 +400,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
             <table>
                 <tr>
                     <td align="center" width="100">
-                        <img src="assets/logos/trello.png" width="48" height="48"/>
+                        <img src="assets/logos/notion.png" width="48" height="48"/>
                     </td>
                 </tr>
                 <tr>
