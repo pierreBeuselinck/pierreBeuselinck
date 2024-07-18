@@ -1,6 +1,6 @@
 <h2>👨🏻‍🚀 Hello, I'm Pierre</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pierreBeuselinck)
+![Profile Views](https://komarev.com/ghpvc/?username=pierreBeuselinck&style=for-the-badge)
 <br/><br/>
 <h2>🧑‍💻 About Me</h2>
 Front-end developer with extensive experience in creating interactive websites and applications. 
