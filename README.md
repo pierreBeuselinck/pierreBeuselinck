@@ -84,7 +84,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
                 </tr>
                 <tr>
                     <td align="center" width="100">
-                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Aphp">php</a>
+                        <a href="https://github.com/search?q=user%3ApierreBeuselinck+language%3Aphp">Php</a>
                     </td>
                 </tr>
             </table>
