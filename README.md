@@ -417,7 +417,7 @@ I am always on the lookout for new technologies and trends to enhance my skills 
 
 <h2>📊 Stats and Activity</h2>
 <h3>🔥 Streak Stats</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pierreBeuselinck&theme=holi-theme" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pierreBeuselinck&theme=holi-theme" alt="GitHub Streak"/></a>
 <br/>
 <h3>📈 GitHub Stats</h3>
 <a align="center" href="https://github.com/pierreBeuselinck/github-readme-stats"><img alt="Pierre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pierreBeuselinck&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
